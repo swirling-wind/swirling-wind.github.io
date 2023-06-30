@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: Homepage
+  - title: List
     url: blog
 
   - title: Github
@@ -11,8 +11,13 @@ project_entries:
     desc: This is an example project, configured in _data/home.yml
     highlight: EXAMPLE
 
+  - title: First Post
+    url: first-post-test
+    desc: This is a test of creating post.
+    highlight: WIP
+
 footer_entries:
-  - title: Homepage
+  - title: List
     url: blog
 
   - title: Github
@@ -21,30 +26,30 @@ footer_entries:
   - title: feed
     url: feed.xml
 
-misc_entries:
-  - title: This is an example vertical list. You can show or hide using a boolean flag in _config.yml or add data in _data/home.yml
-    url: false
-    
-  - title: Blog posts
-    post_list: true
-    url: false
+# misc_entries:
+#   - title: This is an example vertical list. You can show or hide using a boolean flag in _config.yml or add data in _data/home.yml
+#     url: false
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+#   - title: Blog posts
+#     post_list: true
+#     url: false
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+#   - title: moonwalk on the Internet
+#     url: false
+#     entries:
+#       - title: on Github
+#         url: https://github.com/abhinavs/moonwalk
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+#       - title: originally built for abhinav's homepage
+#         url: https://www.abhinav.co
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#       - title: this list is scalable and can be nested
+#         url: false
+#         entries:
+#           - title: this is nested inside a nested list
+#             url: false
+
+#           - title: it is easy to use, see _data/home.yml to see how to configure it.
+#             url: false
 
 
