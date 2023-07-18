@@ -11,10 +11,8 @@
 ### Assessment
 * By 3 Course Tutors (Prof. Tobias Ritschel, etc.)
 * Accomplish 3 Coursework (33.3% each)
-> (a) Use GLSL ES to create primitives, set materials, cast shadows, add reflections and refractions with Fresnel
-
-> (b) Use GLSL ES to create a rasterization pipeline, which enables projection, clipping, interpolation, z-buffering, and animation
-
+> (a) Use GLSL ES to create primitives, set materials, cast shadows, add reflections and refractions with Fresnel  
+> (b) Use GLSL ES to create a rasterization pipeline, which enables projection, clipping, interpolation, z-buffering, and animation  
 > (c) Implement path tracing with OpenGL ES
 
 ### Preparations
