@@ -6,9 +6,14 @@ navbar_entries:
     url: https://github.com/swirling-wind
 
 project_entries:
-  - title: First Post
-    url: first-post-test
-    desc: This is a test of creating post.
+  - title: Overview of UCL Courses
+    url: course-module-note
+    desc: The points of course modules in UCL's Computer Graphics, Vision and Imaging MSc 
+    highlight: WIP
+
+  - title: Learning Note of OpenGL
+    url: OpenGL-learning-note
+    desc: Learning OpenGL
     highlight: WIP
 
 footer_entries:
