@@ -16,6 +16,7 @@ tags: [programme, course related]
 * Accomplish 3 Coursework (33.3% each)  
 
 ### Previous Task Samples  
+  
 > (a) Utilize OpenGL ES to create primitives, set materials, cast shadows, add reflections and refractions with Fresnel  
    
 > (b) Create a rasterization pipeline, which enables projection, clipping, interpolation, z-buffering, and animation  
@@ -23,7 +24,7 @@ tags: [programme, course related]
 > (c) Implement path tracing with OpenGL ES
 
 ### Preparations
-> For Learning OpenGL ES
+> For Learning OpenGL ES  
 * [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
   
 > For Calculating 3D primitives and Scene Description
@@ -89,21 +90,30 @@ tags: [programme, course related]
 
 <br>
 
-## 4. Machine Learning for Visual Computing ()
+## 4. Machine Learning for Visual Computing (COMP0169)
 
 ### Tasks 
+* Recognition and classification of data like images and videos
+* Linear and non-linear model
 
 ### Assessment
-
+* By Prof. RITSCHEL, Tobias and Prof. MITRA, Niloy
+* 2 courseworks (50% each)
 
 ### Previous Task Samples  
-> 
+> Utilize Python to implement Linear Fitting, Free form optimization, Clustering, Linear Classification, Non-linear Classification, Neural Networks  
+  
+>  Implement image and audio visualization, image denoiosing  
+  
+>  Train auto-encoder and models zip for marking  
 
 ### Preparations
+  
+* > It seems that the above preparations of _Machine Vision_ and _Image Processing_ is also applicable to this _Machine Learning for Visual Computing (COMP0169).
 
-
-
-
+<br>  
+  
 ---
 > NOTICE: Information in "Previous Task Samples" parts above are all from [Github](https://github.com/) 
+ 
 ---
