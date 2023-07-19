@@ -5,7 +5,7 @@ tags: [programme, course related]
 
 ## 1. Computer Graphics (COMP0027)
 
-###  Tasks
+###  Target
 * Calculate 3D primitives using matrix
 * Rasterization Toy Renderer
 * Ray Trace Toy Renderer + **Monte-Carlo** Simulation
@@ -13,10 +13,12 @@ tags: [programme, course related]
 
 ### Assessment
 * By 3 Course Tutors (Prof. Tobias Ritschel, etc.)
-* Accomplish 3 Coursework (33.3% each)
+* Accomplish 3 Coursework (33.3% each)  
+
+### Previous Task Samples  
 > (a) Utilize OpenGL ES to create primitives, set materials, cast shadows, add reflections and refractions with Fresnel  
    
-> (b) Utilize OpenGL ES to create a rasterization pipeline, which enables projection, clipping, interpolation, z-buffering, and animation  
+> (b) Create a rasterization pipeline, which enables projection, clipping, interpolation, z-buffering, and animation  
   
 > (c) Implement path tracing with OpenGL ES
 
@@ -44,28 +46,46 @@ tags: [programme, course related]
 
 ### Assessment
 * By Prof. BROSTOW, Gabriel
-* Examination (80%) + 2 courseworks (10% each, several labs included)
-> Utilizle Python to realize Pixel-by-Pixel classification by implementing Mixture of Gaussian Model, calculating likelihood of pixels  
+* Examination (80%) + 2 courseworks (10% each, several labs included)  
   
-> Calculate homography that best maps two sets of points to create panoramas and 3D pose of planes
+### Previous Task Samples  
   
-> Calculate the appearing points based on camera's geometry to draw a wirefram cube on an augmented reality marker
+> (a) Utilizle Python to realize Pixel-by-Pixel classification by implementing Mixture of Gaussian Model, calculating likelihood of pixels  
   
-> Utilize Python to estimate the posterior probabilities with Condensation algorithm to help track objects
+> (b) Calculate homography that best maps two sets of points to create panoramas and 3D pose of planes
+  
+> (c) Calculate appearing points based on camera's geometry to draw a wirefram cube on an augmented reality marker
+  
+> (d) Estimate the posterior probabilities with Condensation algorithm to help track objects
 
 ### Preparations
-* [Isard, M., Blake, A. CONDENSATION—Conditional Density Propagation for Visual Tracking. International Journal of Computer Vision 29, 5–28 (1998). https://doi.org/10.1023/A:1008078328650]
+* Isard, M., Blake, A. CONDENSATION—Conditional Density Propagation for Visual Tracking. International Journal of Computer Vision 29, 5–28 (1998). [https://doi.org/10.1023/A:1008078328650](https://doi.org/10.1023/A:1008078328650)
 
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
 <br>
 
-## 3. Image Processing ()
+## 3. Image Processing (COMP0026)
 
 ### Tasks 
+* Image internal representation and common manipulating, encoding and processing methods
+* Image processing algorithms (Segmentation, Filtering, Edge and corner detection, template matching, etc.)
 
 ### Assessment
+* By Prof. DE AGAPITO VICENTE, Lourdes  
+* Accomplish 2 Coursework (10% each) and practice (80%)
+
+   
+### Previous Task Samples  
+  
+> (a) Utilize Python to implement image thresholding, clustering, and so on
+  
+> (b) Implement _Face Morphing_ and _Feature-Based Image Metamorphosis_
+  
+> (c) Implement _Poison image editing_ based on gradient 
 
 ### Preparations
+
+* [Digital Image Processing, 3rd Edition](https://sde.uoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez,%20R.%20Woods-ilovepdf-compressed.pdf)
 
 <br>
 
@@ -75,4 +95,15 @@ tags: [programme, course related]
 
 ### Assessment
 
+
+### Previous Task Samples  
+> 
+
 ### Preparations
+
+
+
+
+---
+> NOTICE: Information in "Previous Task Samples" parts above are all from [Github](https://github.com/) 
+---
