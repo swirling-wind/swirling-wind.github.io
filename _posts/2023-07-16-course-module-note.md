@@ -101,15 +101,15 @@ tags: [programme, course related]
 * 2 courseworks (50% each)
 
 ### Previous Task Samples  
-> Utilize Python to implement Linear Fitting, Free form optimization, Clustering, Linear Classification, Non-linear Classification, Neural Networks  
+> (a) Utilize Python to implement Linear Fitting, Free form optimization, Clustering, Linear Classification, Non-linear Classification, Neural Networks  
   
->  Implement image and audio visualization, image denoiosing  
+> (b) Implement image and audio visualization, image denoiosing  
   
->  Train auto-encoder and models zip for marking  
+> (c) Train auto-encoder and models zip for marking  
 
 ### Preparations
   
-* > It seems that the above preparations of _Machine Vision_ and _Image Processing_ is also applicable to this _Machine Learning for Visual Computing (COMP0169).
+* > It seems that the above preparations of _Machine Vision_ and _Image Processing_ is also applicable to this _Machine Learning for Visual Computing_.
 
 <br>  
   
