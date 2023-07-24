@@ -11,7 +11,7 @@ project_entries:
     desc: The points of course modules in UCL's Computer Graphics, Vision and Imaging MSc 
 
   - title: Learning Note of OpenGL
-    url: OpenGL-learning-note
+    url: openGL-learning-note
     desc: My learning note of OpenGL
     highlight: New
 
