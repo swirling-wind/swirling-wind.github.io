@@ -6,7 +6,7 @@ tags: [programme, course related]
 ## 1. Computer Graphics (COMP0027)
 
 ###  Target
-* Calculate 3D primitives using matrix
+* Calculation of 3D primitives using matrix
 * Rasterization Toy Renderer
 * Ray Trace Toy Renderer + **Monte-Carlo** Simulation
 * Scene Description
@@ -63,7 +63,8 @@ tags: [programme, course related]
 * Isard, M., Blake, A. CONDENSATION—Conditional Density Propagation for Visual Tracking. International Journal of Computer Vision 29, 5–28 (1998). [https://doi.org/10.1023/A:1008078328650](https://doi.org/10.1023/A:1008078328650)
 
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
-<br>
+ 
+<br>  
 
 ## 3. Image Processing (COMP0026)
 
@@ -87,14 +88,15 @@ tags: [programme, course related]
 ### Preparations
 
 * [Digital Image Processing, 3rd Edition](https://sde.uoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez,%20R.%20Woods-ilovepdf-compressed.pdf)
-
+  
 <br>
-
+  
 ## 4. Machine Learning for Visual Computing (COMP0169)
 
 ### Tasks 
-* Recognition and classification of data like images and videos
 * Linear and non-linear model
+* Recognition and classification of data like images and videos
+* Generative modelling
 
 ### Assessment
 * By Prof. RITSCHEL, Tobias and Prof. MITRA, Niloy
@@ -109,7 +111,7 @@ tags: [programme, course related]
 
 ### Preparations
   
-* > It seems that the above preparations of _Machine Vision_ and _Image Processing_ is also applicable to this _Machine Learning for Visual Computing_.
+* It seems that the above preparations of _Machine Vision_ and _Image Processing_ is also applicable to this _Machine Learning for Visual Computing_ .
 
 <br>  
   

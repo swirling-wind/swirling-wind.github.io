@@ -9,12 +9,11 @@ project_entries:
   - title: Overview of UCL Courses
     url: course-module-note
     desc: The points of course modules in UCL's Computer Graphics, Vision and Imaging MSc 
-    highlight: NEW
 
   - title: Learning Note of OpenGL
     url: OpenGL-learning-note
     desc: Learning OpenGL
-    highlight: WIP
+    highlight: New
 
 footer_entries:
   - title: Blogs
