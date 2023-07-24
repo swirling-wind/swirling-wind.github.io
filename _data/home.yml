@@ -12,8 +12,13 @@ project_entries:
 
   - title: Learning Note of OpenGL
     url: OpenGL-learning-note
-    desc: Learning OpenGL
+    desc: My learning note of OpenGL
     highlight: New
+
+  - title: Earth and moon render
+    url: earth-moon-render
+    desc: A WebGL demo that renders earth-moon system
+    highlight: Archive
 
 footer_entries:
   - title: Blogs
