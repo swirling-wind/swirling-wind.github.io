@@ -16,7 +16,7 @@ My personal practises of LearnOpenGL are [available here](https://github.com/swi
 vertex_data[] // As input
 ```
 
-i. VERTEX SHADER
+i. **_VERTEX SHADER_**
 
 ``` cpp
 coordinates_data[]
@@ -43,7 +43,7 @@ fragments[]
 
 v. CLIPPING
 
-vi. FRAGMENT SHADER
+vi. **_FRAGMENT SHADER_**
 
 ``` cpp
 pixels[] // From fragments, lighting, shadows, etc.
@@ -51,3 +51,21 @@ pixels[] // From fragments, lighting, shadows, etc.
 
 vii. ALPHA-TEST and BLENDING
 
+<br>  
+  
+### Coordinate System
+
+> Local Space
+  
+  Model Matrix
+    
+> World Space
+
+  View Matrix
+
+> View Space / Eye Space
+  
+  Projection Matrix  
+
+> Clip Space
+> Screen Space
